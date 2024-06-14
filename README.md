@@ -69,4 +69,4 @@ Sim, com a lib CV2, cada frame é analisado individualmente e retornado a detec�
 
 #### Quem ganha a bola de ouro 2024?
 
-Apesar de não acompanhar muito futebol, acredito que o Vinicius Jr aka Pombo.  
+Apesar de não acompanhar muito futebol, acredito que o Vinicius Jr. Popularmente conhecido como o Pombo.  
