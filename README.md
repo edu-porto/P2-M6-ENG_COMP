@@ -32,10 +32,9 @@ O código pode ser acessado em:
 ## Demonstração dos trabalhos realizados 
 Funcionamento do modelo. 
 
-<figure class="video_container">
-  <iframe src="la_cabra.mp4" frameborder="0" allowfullscreen="true"> 
-</iframe>
-</figure>
+[![Watch the video](https://raw.githubusercontent.com/edu-porto/P2-M6-ENG_COMP/blob/main/output.avi)](https://raw.githubusercontent.com/edu-porto/P2-M6-ENG_COMP/blob/main/output.avi)
+
+
 
 2.1.
 Descreva de maneira concisa (um parágrafo no máximo) o funcionamento do método de detecção escolhido.
