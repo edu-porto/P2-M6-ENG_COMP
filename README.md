@@ -66,3 +66,7 @@ A rede neural convolucional é muito melhor para detectar emoções porque os fi
 #### 2.4. A solução apresentada ou qualquer outra das que foram listadas na questão 2.2. tem a capacidade de considerar variações de um frame para outro (e.g. perceber que em um frame a pessoa está feliz e isso influenciar na detecção do próximo frame)? Se não, quais alterações poderiam ser feitas para que isso seja possível?
 
 Sim, com a lib CV2, cada frame é analisado individualmente e retornado a detecção com base no código que o programador fez. Para resolver o problema de classificação de emoções é possível fazer com CNN ou Haar Cascade. Apesar de que com uma cnn os resultados seriam bem melhores, dado a robustes do modelo. 
+
+#### Quem ganha a bola de ouro 2024?
+
+Apesar de não acompanhar muito futebol, acredito que o Vinicius Jr aka Pombo.  
