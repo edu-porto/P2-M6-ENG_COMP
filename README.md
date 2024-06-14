@@ -32,9 +32,10 @@ O código pode ser acessado em:
 ## Demonstração dos trabalhos realizados 
 Funcionamento do modelo. 
 
-![Demonstração](output.avi)
-
-
+<figure class="video_container">
+  <iframe src="la_cabra.mp4" frameborder="0" allowfullscreen="true"> 
+</iframe>
+</figure>
 
 2.1.
 Descreva de maneira concisa (um parágrafo no máximo) o funcionamento do método de detecção escolhido.
